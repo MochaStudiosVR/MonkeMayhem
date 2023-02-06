@@ -1,0 +1,7 @@
+Hello! This is the main developer of the game, Jook here. This is the first MOTD.
+
+UPDATES:
+Added Snow, Trees
+
+PLANS: To have atleast 2 maps, and have the game on applab by next year.
+
